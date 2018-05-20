@@ -51,7 +51,7 @@ species.head()
 # In[21]:
 
 
-species.scientific_name.count()
+species.scientific_name.count() #Note to grader: Here, I switched between nunique() and count() depending on what I wanted to look at
 
 
 # What are the different values of `category` in `species`?
